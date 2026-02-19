@@ -1,6 +1,6 @@
-**# global-social-protest
+# global-social-protest
 GSP is a database on global social protest from 1851-2023 created by the Global Social Protest Research Working Group at the Arrighi Center for Global Studies (Johns Hopkins University). I contest that their methods are outdated, and a larger, more robust database can be created and analyzed by leveraging LLMs.
-**# Global Social Protest (GSP-LLM)
+# Global Social Protest (GSP-LLM)
 
 A large-scale, LLM-enhanced database of global social protest events (1851–2023), built from newspaper archives and structured using programmatic AI coding.
 
@@ -288,13 +288,4 @@ If using this dataset or pipeline, please cite:
 
 > Taneja, R. (2026). Global Social Protest (GSP-LLM): An LLM-Based Protest Event Coding Pipeline.
 
----
 
-# Contact
-
-Rohan Taneja
-Computational Social Science & Applied ML
-
----
-
-If you're building Washed-level ML systems and also doing historical event modeling — this repo sits exactly at that intersection: structured AI systems applied to messy real-world human data.
